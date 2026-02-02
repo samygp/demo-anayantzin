@@ -1,0 +1,25 @@
+.boton {
+    border-radius: 2em;
+    height: 2em;
+    width: fit-content;
+    padding-top: 2ex;
+    padding-left: 4ex;
+    padding-right: 4ex;
+    justify-content: center;
+    cursor: pointer;
+    text-align: center;
+    background-color: rgb(39, 90, 218);
+    color: white;
+    margin: 1ex;
+
+    :hover {
+        background-color: aquamarine;
+        color: black;
+    }
+}
+
+.contenido {
+    height: 100%;
+    width: 100%;
+    color: white;
+}
