@@ -1,0 +1,18 @@
+.boton {
+    background-color: rgb(39, 90, 218);
+    width: fit-content;
+    
+    padding-top: 2ex;
+    padding-bottom: 2ex;
+    padding-left: 4ex;
+    padding-right: 4ex;
+    
+    margin-bottom: 1ex;
+}
+
+.contenido {
+    border: 1px solid black;
+    height: 100%;
+    width: 100%;
+    color: white;
+}
